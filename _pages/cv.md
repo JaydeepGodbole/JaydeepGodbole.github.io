@@ -50,4 +50,4 @@ Service and leadership
 
 PDF
 ======
-A pdf version of the cv can be found <a href="https://github.com/JaydeepGodbole/JaydeepGodbole.github.io/files/jaydeep-resume.pdf" target="_blank">here.</a>
+A pdf version of the cv can be found <a href="https://github.com/JaydeepGodbole/JaydeepGodbole.github.io/files/resume.pdf" target="_blank">here.</a>
