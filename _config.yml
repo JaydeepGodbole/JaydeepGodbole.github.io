@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jaydeep Godbole"
 title_separator          : "-"
 name                     : &name "Jaydeep Godbole"
-description              : &description "An Inqusitive Explorer!"
+description              : &description "Personal Website"
 url                      : https://jaydeepgodbole.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JaydeepGodbole/JaydeepGodbole.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jaydeep Godbole"
   avatar           : "me.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "IIT Kharagpur | Robotics | Computer Vision | Deep Learning | Artificial Intelligence"
   location         : "IIT Kharagpur"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "jgodbole7@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
