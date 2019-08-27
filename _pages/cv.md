@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Instrumentation Engineering, IIT Kharagpur, 2021 (Expected) | Major
-* B.Tech. in Computer Science and Engineering, IIT Kharagpur, 2021 (Expected) | Minor
+* B.Tech. in Instrumentation Engineering, IIT Kharagpur, 2021 (Expected) (Major)
+* B.Tech. in Computer Science and Engineering, IIT Kharagpur, 2021 (Expected) (Minor)
 
 Work experience
 ======
@@ -50,4 +50,4 @@ Service and leadership
 
 PDF
 ======
-A pdf version of the cv can be found <a href="https://github.com/JaydeepGodbole/JaydeepGodbole.github.io/files/resume.pdf" target="_blank">here.</a>
+A pdf version of the cv can be found <a href="https://github.com/JaydeepGodbole/JaydeepGodbole.github.io/blob/master/files/resume.pdf" target="_blank">here.</a>
