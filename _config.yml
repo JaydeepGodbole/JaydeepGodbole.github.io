@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jaydeep Godbole"
   avatar           : "me.jpg"
-  bio              : "IIT Kharagpur | Robotics | Computer Vision | Deep Learning | Artificial Intelligence"
+  bio              : "IIT Kharagpur | Robotics | Networked Systems | Machine Learning | Artificial Intelligence"
   location         : "IIT Kharagpur"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=wko463sAAAAJ&hl=en"
   email            : "jgodbole7@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "jaydeep-godbole/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
