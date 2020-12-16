@@ -12,6 +12,8 @@ redirect_from:
 
 Thank you for stopping by my corner of the vast internet! <br>
 
+This website is under development, but you can read about me on this page and check out my [scholar profile](https://scholar.google.com/citations?user=wko463sAAAAJ&hl=en) and my [resume](https://drive.google.com/file/d/1lyrzXsg3yQIDyTkq0Gpq1KpPyIf9eVDe/view) 
+
 A brief introduction about myself
 ======
 I am a final year student in the Department of Electrical Engineering at the Indian Institute of Technology, Kharagpur. \\
